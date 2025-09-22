@@ -7,7 +7,7 @@ This research project explores how measurement uncertainty in automated vision i
 The approach integrates probabilistic machine learning methods with stochastic modeling to quantify both aleatoric and epistemic uncertainty, and links these uncertainties to cost impacts such as scrap, rework, and false accepts.
 
 ## Repository Name
-`ml-uncertainty-vision-inspection`
+`research-tracking`
 
 ## Objectives
 - Simulate synthetic measurement datasets with controlled aleatoric and epistemic uncertainty.  
